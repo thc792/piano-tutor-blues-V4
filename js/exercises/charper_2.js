@@ -589,7 +589,8 @@ const chapter2Exercises = [
             // Bar 24 (G7, per turnaround finale al C7 del possibile inizio successivo)
             { keys: ["d/3", "f/3", "g/3", "b/3"], duration: "q", midiValues: [50, 53, 55, 59] }, { keys: ["d/3", "f/3", "g/3", "b/3"], duration: "q", midiValues: [50, 53, 55, 59] }, { keys: ["d/3", "f/3", "g/3", "b/3"], duration: "q", midiValues: [50, 53, 55, 59] }, { keys: ["d/3", "f/3", "g/3", "b/3"], duration: "q", midiValues: [50, 53, 55, 59] },
         ]
-    }
+    },
+    
 
 
 
