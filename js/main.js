@@ -1,13 +1,18 @@
 /**
- * main.js - Logica principale e gestione eventi Piano Future.
- * **VERSIONE CON CORREZIONE FLUSSO STARTTICK E LOGICA CONTROLLO NOTE PIÙ STRINGENTE**
+* 
+ * Copyright (c) 2023-2024 Lorenzetti Giuseppe (aggiorna l'anno se necessario)
  *
- * Piano Future
- * Copyright (c) 2025 Lorenzetti Giuseppe
+ * Tutti i diritti riservati.
  *
- * Questo codice sorgente è rilasciato sotto la licenza MIT.
- * Vedi il file LICENSE nel repository GitHub per i dettagli completi.
- * https://github.com/thc792/piano-tutor-extraime/blob/main/LICENSE
+ * Questo software è proprietario e confidenziale.
+ * È concesso in licenza, non venduto. L'uso, la riproduzione, la modifica
+ * o la distribuzione non autorizzata di questo software, o di qualsiasi sua parte,
+ * sono severamente vietati.
+ *
+ * Per informazioni sulla licenza e per i termini di utilizzo completi,
+ * fare riferimento al file LICENSE.md disponibile nel repository del progetto:
+ * https:https://github.com/thc792/piano tutor blues/blob/main/LICENSE.md]
+ * o contattare [pianothc791@gmail.com].
  */
 
 import { renderExercise } from './vexflow_renderer.js';
